@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["abhishek@nagekar.com"]
 
   spec.summary       = %q{Minimalistic Jekyll Theme}
-  spec.homepage      = "https://elementary-jekyll.github.io"
+  spec.homepage      = "https://bolitto.github.io/blogg/"
   spec.license       = "MIT"
 
   spec.add_runtime_dependency "jekyll", "~> 4.0"
